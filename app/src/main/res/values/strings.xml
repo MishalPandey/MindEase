@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MindEase</string>
+<!--    splashScreen-->
+    <string name="splash_screen_text">MindEase</string>
+    <string name="splash_screen_text2">Welcome To</string>
+    <string name="home">Home</string>
+    <string name="pears">Pears</string>
+    <string name="random_friend">Random Friend</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+<!--    IntroductionFragment-->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_am_18_years_or_above">I am 18 years or above</string>
+    <string name="find_inner_peace">>> Find inner peace By</string>
+    <string name="by_accepting_i_agree_tnc_amp_privacy_policy"><![CDATA[By accepting, I agree TnC & Privacy Policy]]></string>
+    <string name="anonymous_login">Anonymous login</string>
+    <string name="loading">loading</string>
+    <string name="app_info">● Chat. Connect. Relieve stress.</string>
+    <string name="app_infoo">● Expert support. Mental well-being.</string>
+    <string name="app_infooo">● Share. Inspire. Overcome.</string>
+<!--    chatItem-AI-->
+    <string name="hi_bhai_kaisa_hai">Hi bhai kaisa hai</string>
+    <string name="send">Send</string>
+    <string name="type_a_message">Type a message...</string>
+
+</resources>
